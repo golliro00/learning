@@ -1,5 +1,6 @@
 import assert from "node:assert";
 
+console.log("xxxxxx");
 // The data: values to inspect. Do NOT change these.
 const label: string = "widget";
 const price: number = 12;
